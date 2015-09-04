@@ -29,7 +29,7 @@
 - [Letterhead Fonts](http://www.letterheadfonts.com)
 - [Lost Type](http://losttype.com)
 - [Mark Simonson](http://www.marksimonson.com)
-- [Platype] https://playtype.com/
+- [Platype] (https://playtype.com/)
 - [Typekit](https://typekit.com)
 - [Village](http://vllg.com)
 
