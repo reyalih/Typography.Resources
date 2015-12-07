@@ -59,3 +59,4 @@
 
 ## Articles
 - [Professional Web Typography](https://prowebtype.com)
+- [2013 font of the year](https://typ.io/2013)
