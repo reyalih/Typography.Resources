@@ -4,6 +4,7 @@
 - [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
 - [Fonts.com Fontology](http://www.fonts.com/content/learning/fontology)
 - [Fonts in Use](http://fontsinuse.com)
+- [Font usage across the web](http://www.fontreach.com/)
 - [Font Pair](http://fontpair.co/)
 - [Google Type Project](http://femmebot.github.io/google-type/)
 - [Just My Type](http://justmytype.co/)
