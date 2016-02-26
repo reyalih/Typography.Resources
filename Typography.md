@@ -58,5 +58,6 @@
 - [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
 
 ## Articles
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [Professional Web Typography](https://prowebtype.com)
 - [2013 font of the year](https://typ.io/2013)
