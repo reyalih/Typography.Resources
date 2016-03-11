@@ -19,7 +19,7 @@
 - [Avondale Type Co.](https://avondaletypeco.com)
 - [Commercial Type](https://commercialtype.com)
 - [Font Fabric](http://fontfabric.com)
-- [Frere-Jones Type](http://www.frerejones.com) *_New releases are planned for later in the year_
+- [Frere-Jones Type](http://www.frerejones.com)
 - [Hoefler & Co.](http://www.typography.com)
 - [House Industries](http://www.houseind.com)
 - [Linotype](http://www.linotype.com/)
@@ -33,6 +33,7 @@
 - [Platype] (https://playtype.com/)
 - [Typekit](https://typekit.com)
 - [Village](http://vllg.com)
+- [Open-Foundry](http://open-foundry.com/hot30) - *A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
 
 ## Type Design
 - [Briem.net](http://briem.net)
