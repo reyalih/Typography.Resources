@@ -58,6 +58,10 @@
 - [_Thinking with Type_](http://www.thinkingwithtype.com) by Ellen Lupton
 - [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
 
+## Learning Typography
+- [Butterick’s Practical Typography](http://practicaltypography.com/)
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+
 ## Articles
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [Professional Web Typography](https://prowebtype.com)
