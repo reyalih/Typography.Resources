@@ -58,7 +58,7 @@
 - [_The Stroke: Theory of Writing_](https://hyphenpress.co.uk/products/books/978-0-907259-30-5) by Gerrit Noordzij
 - [_Thinking with Type_](http://www.thinkingwithtype.com) by Ellen Lupton
 - [_Typography Referenced_](http://www.amazon.com/Typography-Referenced-Comprehensive-Language-Practice/dp/1592537022) by Jason Tselentis, Allan Haley, Richard Poulin, Tony Seddon, Gerry Leonidas, Ina Saltz, Kathryn Henderson & Tyler Alterman
-- [_Designing with Type_] (http://www.designingwithtype.com/5/)
+- [_Designing with Type_] (http://www.designingwithtype.com/5/) by James Craig
 
 ## Learning Typography
 - [Butterick’s Practical Typography](http://practicaltypography.com/)
