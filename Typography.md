@@ -34,6 +34,7 @@
 - [Typekit](https://typekit.com)
 - [Village](http://vllg.com)
 - [Open-Foundry](http://open-foundry.com/hot30) - *A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
+- [Google Fonts] (https://fonts.google.com/)
 
 ## Type Design
 - [Briem.net](http://briem.net)
