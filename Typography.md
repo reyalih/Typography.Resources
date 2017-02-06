@@ -16,12 +16,16 @@
 - [Typekit Practice](http://practice.typekit.com/reference/)
 
 ## Type Foundries
+- [Dalton Maag](https://www.daltonmaag.com/)
+- [Optimo](http://www.optimo.ch/)
 - [Avondale Type Co.](https://avondaletypeco.com)
 - [Commercial Type](https://commercialtype.com)
 - [Font Fabric](http://fontfabric.com)
 - [Frere-Jones Type](http://www.frerejones.com)
 - [Hoefler & Co.](http://www.typography.com)
 - [House Industries](http://www.houseind.com)
+- [URW++](https://www.urwpp.de/en/)
+- [Novellnoire](http://nouvellenoire.ch/)
 - [Linotype](http://www.linotype.com/)
 - [HVD Foundry](http://www.hvdfonts.com/)
 - [Hype for Type](http://www.hypefortype.com)
