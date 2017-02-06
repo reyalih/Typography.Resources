@@ -17,13 +17,14 @@
 
 ## Type Foundries
 - [Dalton Maag](https://www.daltonmaag.com/)
+- [Hoefler & Co.](http://www.typography.com) - One of the best contemporary foundry.
+- [House Industries](http://www.houseind.com)- Famous for their typeface Neutraface I and Neutraface II.
+- [H. Berthold TypeFoundry](http://www.bertholdtypes.com/) - Designer of Akzidenz-Grotesk typeface: the original sans and most influential grotesque.
 - [Optimo](http://www.optimo.ch/)
 - [Avondale Type Co.](https://avondaletypeco.com)
-- [Commercial Type](https://commercialtype.com)
+- [Commercial Type](https://commercialtype.com) - Known for Graphik
 - [Font Fabric](http://fontfabric.com)
 - [Frere-Jones Type](http://www.frerejones.com)
-- [Hoefler & Co.](http://www.typography.com)
-- [House Industries](http://www.houseind.com)
 - [URW++](https://www.urwpp.de/en/)
 - [Novellnoire](http://nouvellenoire.ch/)
 - [Linotype](http://www.linotype.com/)
@@ -39,6 +40,7 @@
 - [Village](http://vllg.com)
 - [Open-Foundry](http://open-foundry.com/hot30) - *A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
 - [Google Fonts] (https://fonts.google.com/)
+- [Production Type](https://www.productiontype.com/)
 
 ## Type Design
 - [Briem.net](http://briem.net)
@@ -52,6 +54,7 @@
 
 ## Font Comparison
 - [TypeCase App](http://typecaseapp.com) *Mac Only
+- [IdentiFont](http://www.identifont.com/)
 
 ## Inspiration
 - [Claire Coullon Portfolio](http://coullon.com)
