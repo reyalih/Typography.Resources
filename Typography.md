@@ -19,11 +19,12 @@
 ## Type Foundries
 - [Dalton Maag](https://www.daltonmaag.com/)
 - [Hoefler & Co.](http://www.typography.com) - One of the best contemporary foundry.
-- [House Industries](http://www.houseind.com)- Famous for their typeface Neutraface I and Neutraface II.
+- [House Industries](http://www.houseind.com) - Famous for their typeface Neutraface I and Neutraface II.
 - [H. Berthold TypeFoundry](http://www.bertholdtypes.com/) - Designer of Akzidenz-Grotesk typeface: the original sans and most influential grotesque.
 - [Optimo](http://www.optimo.ch/)
 - [Avondale Type Co.](https://avondaletypeco.com)
 - [Commercial Type](https://commercialtype.com) - Known for Graphik
+- [TypeTrust](http://typetrust.com/) - The designer of some of the besed Condensed/Compressed typefamily.
 - [Font Fabric](http://fontfabric.com)
 - [Frere-Jones Type](http://www.frerejones.com)
 - [URW++](https://www.urwpp.de/en/)
