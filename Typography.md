@@ -7,6 +7,7 @@
 - [Font usage across the web](http://www.fontreach.com/)
 - [Font Pair](http://fontpair.co/)
 - [Google Type Project](http://femmebot.github.io/google-type/)
+- [100 Days of Fonts](http://100daysoffonts.com/)
 - [Just My Type](http://justmytype.co/)
 - [Typ.io](http://typ.io/)
 - [Typeconnection](http://www.typeconnection.com/matches.php)
