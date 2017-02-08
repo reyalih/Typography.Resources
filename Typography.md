@@ -15,6 +15,7 @@
 - [Type Genius](http://www.typegenius.com/)
 - [Typekit Blog](http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/)
 - [Typekit Practice](http://practice.typekit.com/reference/)
+- [Canva Font Combinations](https://www.canva.com/font-combinations/)
 
 ## Type Foundries
 - [Dalton Maag](https://www.daltonmaag.com/)
