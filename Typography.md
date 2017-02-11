@@ -16,6 +16,7 @@
 - [Typekit Blog](http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/)
 - [Typekit Practice](http://practice.typekit.com/reference/)
 - [Canva Font Combinations](https://www.canva.com/font-combinations/)
+- [Canva: The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/)
 
 ## Type Foundries
 - [Dalton Maag](https://www.daltonmaag.com/)
@@ -78,4 +79,3 @@
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [Professional Web Typography](https://prowebtype.com)
 - [2013 font of the year](https://typ.io/2013)
-- [Canva: The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/)
