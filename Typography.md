@@ -19,6 +19,7 @@
 - [Canva: The Ultimate Guide to Font Pairing](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/)
 
 ## Type Foundries
+- [Letters from Sweden](http://lettersfromsweden.se/)
 - [Dalton Maag](https://www.daltonmaag.com/)
 - [Hoefler & Co.](http://www.typography.com) - One of the best contemporary foundry.
 - [House Industries](http://www.houseind.com) - Famous for their typeface Neutraface I and Neutraface II.
