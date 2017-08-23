@@ -83,6 +83,6 @@
 
 ## Opensource Fonts
 
-- [Interface] (https://github.com/rsms/interface) - Interface is a typeface specially designed for user interfaces, with excellent legibility at small sizes.
+- [Interface](https://github.com/rsms/interface) - Interface is a typeface specially designed for user interfaces, with excellent legibility at small sizes.
 
 
